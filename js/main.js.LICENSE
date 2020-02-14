@@ -4755,6 +4755,8 @@ which can be placed in CurveUtils.
 
 // this.noiseSphere = new NoiseSphere(0, 0, 0)
 
+// ====== scene1 =======
+
 // ====== scene2 =======
 
 // ====== scene3 =======
